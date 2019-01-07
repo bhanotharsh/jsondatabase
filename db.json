@@ -4,7 +4,7 @@
   ],
   "posts": [
     { "id": 2, "title": "json-server", "author": "typicodefreawr" }
-  ]
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
